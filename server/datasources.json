@@ -12,7 +12,7 @@
   "cloudant": {
     "host": "27aa1907-70fe-4a10-ab5c-0049f6551411-bluemix.cloudant.com",
     "port": 443,
-    "database": "confusion",
+    "database": "conDB",
     "username": "27aa1907-70fe-4a10-ab5c-0049f6551411-bluemix",
     "password": "fe98f95c4451d288df3b754ed456c547c08efb5921961600af1b74afbc2e77bf",
     "name": "conDB",
