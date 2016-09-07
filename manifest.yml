@@ -1,6 +1,12 @@
-applications:
+pplications:
 - path: .
   memory: 512M
   instances: 1
-  
-
+  domain: https://27aa1907-70fe-4a10-ab5c-0049f6551411-bluemix:fe98f95c4451d288df3b754ed456c547c08efb5921961600af1b74afbc2e77bf@27aa1907-70fe-4a10-ab5c-0049f6551411-bluemix.cloudant.com
+  name: Muppala-Testing
+  host: muppala-testing
+  disk_quota: 1024M
+  services:
+  - Muppala-Testing-AdvancedMobileAccess
+  - Muppala-Testing-imfpush
+  - Muppala-Testing-cloudantNoSQLDB
