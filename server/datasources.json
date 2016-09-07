@@ -10,12 +10,12 @@
     "root": "./client/"
   },
   "cloudant": {
-    "host": "25e393e0-5a79-4441-ac25-d66221e3efa3-bluemix.cloudant.com",
+    "host": "27aa1907-70fe-4a10-ab5c-0049f6551411-bluemix.cloudant.com",
     "port": 443,
     "database": "confusion",
-    "username": "25e393e0-5a79-4441-ac25-d66221e3efa3-bluemix",
-    "password": "c1471374a71227dc5891a4f9fa73dba9433529bc79d7d0f17249e30232e34fe7",
-    "name": "confusion",
+    "username": "27aa1907-70fe-4a10-ab5c-0049f6551411-bluemix",
+    "password": "fe98f95c4451d288df3b754ed456c547c08efb5921961600af1b74afbc2e77bf",
+    "name": "conDB",
     "connector": "cloudant"
   }
 }
